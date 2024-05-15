@@ -1,5 +1,8 @@
 # FULL_ADDER_SUBTRACTOR
 
+## NAME: S ADITYA
+## REG NO: 212223040007
+
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 # AIM:
